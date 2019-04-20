@@ -1,0 +1,19 @@
+#login{
+   margin-top: 40px;
+   text-align: center;
+}
+
+#login input{
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+#titulo{
+	margin-bottom: 30px;
+}
+
+.error{
+	color: red;
+	font-size: .7em;
+	display: block;
+}
